@@ -13,6 +13,7 @@ js源码: https://res.wx.qq.com/open/js/jweixin-1.4.0.js
     
 使用:
     
-    var wx = require('fft-m-commonjs-jweixin);
+    var wx = require('m-commonjs-jweixin');
+    import wx from 'm-commonjs-jweixin'
 
 ### Old versions
